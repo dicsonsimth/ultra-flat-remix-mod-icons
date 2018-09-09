@@ -1,6 +1,9 @@
 [Icon Theme]
-Name=ultra flat remix mod iconsComment=A colorful flat icon set for KDE and LXQt
-=x-directory-normal
+Name=Plataro
+Comment=A colorful flat icon set for KDE and LXQt
+Inherits=breeze,oxygen,gnome,hicolor
+
+Example=x-directory-normal
 
 FollowsColorScheme=true
 
